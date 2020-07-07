@@ -1,0 +1,1 @@
+# bitdollar-json-rpc-specification
